@@ -59,13 +59,7 @@ To build a machine learning model that predicts how many units of a product will
 
 ---
 
-## 📁 Folder Structure
-Ecommerce_furniture_project/
-├── Dataset/                  ← contains the CSV dataset
-├── notebooks/                ← contains EDA + model training notebooks
-├── Visuals/                  ← optional folder for EDA graphs (if saved)
-├── README.md                 ← your project summary
-└── requirements.txt          ← list of Python packages used
+
 
 
 
